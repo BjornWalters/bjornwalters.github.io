@@ -1,6 +1,9 @@
 h2{
     color:blueviolet; font-family: "Courier New" , Courier, monospace; 
 }
+div{
+    border: 2px solid blue;
+}
 
 body{
     
