@@ -2,10 +2,12 @@ h2{
     color:blueviolet; font-family: "Courier New" , Courier, monospace; 
 }
 div{
-    border: 2px solid blue;
+    border: 2px solid yellow;
+    border-radius: 15px
+    
 }
 
-body{
+img{ box-shadow: 44px 44px 44px yellowgreen;
     
 }
 
