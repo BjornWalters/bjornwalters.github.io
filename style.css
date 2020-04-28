@@ -1,13 +1,23 @@
 h2{
     color:blueviolet; font-family: "Courier New" , Courier, monospace; 
+padding:5px;
+margin: 10px;
+Margin-bottom: 15px;
+
+
 }
 div{
     border: 2px solid yellow;
-    border-radius: 15px
+    border-radius: 15px;
+    padding-block-start: 5px;
+    padding-block-end: 10px;
+   
+
     
 }
 
 img{ box-shadow: 44px 44px 44px yellowgreen;
+margin: 15px
     
 }
 
