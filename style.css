@@ -16,8 +16,14 @@ div{
     
 }
 
-img{ box-shadow: 44px 44px 44px yellowgreen;
+img{
+     box-shadow: 44px 44px 44px yellowgreen;
 margin: 15px
-    
 }
+    #spp{ border:10px solid green;
+         box-shadow: 30px 30px 30px slateblue;
+
+    }
+    state{}
+
 
